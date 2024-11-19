@@ -429,7 +429,7 @@ margin-bottom: 8px;
 .footer-soc-icon-svg {
   fill: #f4f4fd;
 }
- .footer-subscribe-button {
+ .footer-subscribe-form-button {
   min-width: 165px;
   height: 40px;
   display: flex;
@@ -454,14 +454,14 @@ margin-bottom: 8px;
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-.footer-subscribe-button-svg {
+.footer-subscribe-form-button-svg {
   margin-left: 16px;
 }
 .footer-subscribe-form {
   display: flex;
   gap: 24px;
 }
-.footer-subscribe-l-in {
+.footer-subscribe-form-l-in {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
