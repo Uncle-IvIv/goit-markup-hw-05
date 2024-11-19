@@ -523,7 +523,7 @@ margin-bottom: 8px;
  .modal-win-but:focus {
    background-color: #404bbf;
    border: none;
-  fill: #ffffff
+   fill: #ffffff
  }
 .modal-win-but-svg {
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
