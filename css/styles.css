@@ -439,7 +439,7 @@ margin-bottom: 8px;
 }
 .footer-subscribe-form {
   display: flex;
-  gap 24px;
+  gap: 24px;
 }
 .footer-subscribe-l-in {
   width: 264px;
