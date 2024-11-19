@@ -429,6 +429,9 @@ margin-bottom: 8px;
 .footer-soc-icon-svg {
   fill: #f4f4fd;
 }
+.footer-subscribe {
+  margin-left: 80px;
+}
  .footer-subscribe-form-button {
   min-width: 165px;
   height: 40px;
