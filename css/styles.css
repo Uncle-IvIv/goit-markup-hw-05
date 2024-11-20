@@ -331,7 +331,7 @@ ol {
 .li-one-two {
   width: calc((100% - 72px) / 4);
 }
-.c-t-visually-hidden {
+.visually-hidden {
     position: absolute;
     width: 1px;
     height: 1px;
