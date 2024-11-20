@@ -615,6 +615,11 @@ margin-bottom: 8px;
       justify-content: center;
       fill: transparent;
     }
+    .modal-win-form-divch-lb-sp-svg:checked {
+      background-color: #404bbf;
+      border: none;
+      fill: #F4F4FD;
+    }
     .modal-win-form-divch-lb-a {
       color: #4d5ae5;
     }
